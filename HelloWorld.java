@@ -1,3 +1,3 @@
-public static void HelloWorld(){
+public static main(args[] String){
 
 }
